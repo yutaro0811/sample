@@ -101,6 +101,13 @@ img {
     font-family: 'Cherry Bomb One', cursive;
 }
 
+nav.floating {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    background-color: #d0d0d0;
+}
+
 @media (max-width: 800px) {
     .site-menu ul {
         display: block;
